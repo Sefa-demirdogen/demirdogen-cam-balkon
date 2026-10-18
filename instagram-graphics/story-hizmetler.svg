@@ -1,0 +1,65 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <!-- Arka plan -->
+  <rect width="1080" height="1920" fill="#1e40af"/>
+  
+  <!-- Dekoratif elementler -->
+  <circle cx="100" cy="400" r="180" fill="#3b82f6" opacity="0.3"/>
+  <circle cx="980" cy="1500" r="200" fill="#60a5fa" opacity="0.2"/>
+  
+  <!-- Başlık -->
+  <text x="540" y="300" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" text-anchor="middle">
+    Hizmetlerimiz
+  </text>
+  
+  <!-- Hizmetler listesi -->
+  <g transform="translate(100, 400)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🏠 Cam Balkon</text>
+  </g>
+  
+  <g transform="translate(100, 550)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🪟 PVC Pencere & Kapı</text>
+  </g>
+  
+  <g transform="translate(100, 700)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🪜 Alüminyum Korkuluk</text>
+  </g>
+  
+  <g transform="translate(100, 850)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🦟 Sineklik</text>
+  </g>
+  
+  <g transform="translate(100, 1000)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🚿 Duşakabin</text>
+  </g>
+  
+  <g transform="translate(100, 1150)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🪟 Plicell Perde</text>
+  </g>
+  
+  <g transform="translate(100, 1300)">
+    <rect x="0" y="0" width="880" height="120" rx="15" fill="white" opacity="0.1"/>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">🔧 Tamirat & Bakım</text>
+  </g>
+  
+  <!-- İletişim -->
+  <text x="540" y="1550" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">
+    📍 Kahramanmaraş
+  </text>
+  <text x="540" y="1610" font-family="Arial, sans-serif" font-size="32" fill="#93c5fd" text-anchor="middle">
+    Onikişubat & Dulkadiroğlu
+  </text>
+  
+  <text x="540" y="1720" font-family="Arial, sans-serif" font-size="40" fill="#fbbf24" text-anchor="middle">
+    📞 0543 526 47 92
+  </text>
+  
+  <text x="540" y="1800" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">
+    💬 WhatsApp'tan Bilgi Alın
+  </text>
+</svg>

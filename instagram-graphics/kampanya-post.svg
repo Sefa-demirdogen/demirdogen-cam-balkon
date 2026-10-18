@@ -1,0 +1,52 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Arka plan -->
+  <rect width="1080" height="1080" fill="#dc2626"/>
+  
+  <!-- Dekoratif elementler -->
+  <circle cx="100" cy="100" r="150" fill="#ef4444" opacity="0.4"/>
+  <circle cx="980" cy="980" r="200" fill="#f87171" opacity="0.3"/>
+  
+  <!-- Kampanya rozeti -->
+  <circle cx="540" cy="300" r="180" fill="#fbbf24"/>
+  <text x="540" y="250" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#dc2626" text-anchor="middle">
+    %10
+  </text>
+  <text x="540" y="320" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#dc2626" text-anchor="middle">
+    İNDİRİM
+  </text>
+  <text x="540" y="390" font-family="Arial, sans-serif" font-size="36" fill="#7f1d1d" text-anchor="middle">
+    ÖZEL KAMPANYA
+  </text>
+  
+  <!-- Başlık -->
+  <text x="540" y="520" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">
+    Cam Balkon
+  </text>
+  <text x="540" y="600" font-family="Arial, sans-serif" font-size="48" fill="#fef3c7" text-anchor="middle">
+    Montaj Hizmeti
+  </text>
+  
+  <!-- Süre -->
+  <g transform="translate(290, 680)">
+    <rect x="0" y="0" width="500" height="100" rx="15" fill="white" opacity="0.2"/>
+    <text x="250" y="65" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">
+      ⏰ Sınırlı Süre
+    </text>
+  </g>
+  
+  <!-- Bölge -->
+  <text x="540" y="830" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">
+    📍 Kahramanmaraş
+  </text>
+  <text x="540" y="880" font-family="Arial, sans-serif" font-size="32" fill="#fecaca" text-anchor="middle">
+    Onikişubat & Dulkadiroğlu
+  </text>
+  
+  <!-- İletişim -->
+  <text x="540" y="970" font-family="Arial, sans-serif" font-size="40" fill="#fbbf24" text-anchor="middle">
+    📞 0543 526 47 92
+  </text>
+  <text x="540" y="1030" font-family="Arial, sans-serif" font-size="32" fill="white" text-anchor="middle">
+    💬 WhatsApp'tan Bilgi Alın
+  </text>
+</svg>

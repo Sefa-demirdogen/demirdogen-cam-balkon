@@ -1,0 +1,57 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Arka plan -->
+  <rect width="1080" height="1080" fill="#065f46"/>
+  
+  <!-- Dekoratif daireler -->
+  <circle cx="900" cy="900" r="200" fill="#10b981" opacity="0.3"/>
+  <circle cx="200" cy="200" r="150" fill="#34d399" opacity="0.2"/>
+  
+  <!-- Başlık -->
+  <text x="540" y="300" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">
+    Sineklik
+  </text>
+  <text x="540" y="380" font-family="Arial, sans-serif" font-size="48" fill="#fbbf24" text-anchor="middle">
+    Montaj & Tamirat
+  </text>
+  
+  <!-- Konum -->
+  <text x="540" y="500" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">
+    Kahramanmaraş
+  </text>
+  <text x="540" y="550" font-family="Arial, sans-serif" font-size="32" fill="#6ee7b7" text-anchor="middle">
+    Onikişubat & Dulkadiroğlu
+  </text>
+  
+  <!-- Özellikler -->
+  <g transform="translate(150, 620)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="white" opacity="0.1"/>
+    <text x="150" y="50" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">✓ Böcek Koruması</text>
+  </g>
+  
+  <g transform="translate(630, 620)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="white" opacity="0.1"/>
+    <text x="150" y="50" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">✓ Pratik Çözüm</text>
+  </g>
+  
+  <g transform="translate(150, 730)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="white" opacity="0.1"/>
+    <text x="150" y="50" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">✓ Hijyenik</text>
+  </g>
+  
+  <g transform="translate(630, 730)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="white" opacity="0.1"/>
+    <text x="150" y="50" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">✓ Uzun Ömürlü</text>
+  </g>
+  
+  <!-- İletişim -->
+  <text x="540" y="880" font-family="Arial, sans-serif" font-size="32" fill="white" text-anchor="middle">
+    📞 0543 526 47 92
+  </text>
+  <text x="540" y="940" font-family="Arial, sans-serif" font-size="28" fill="#fbbf24" text-anchor="middle">
+    💬 WhatsApp'tan Bilgi Alın
+  </text>
+  
+  <!-- Logo placeholder -->
+  <circle cx="540" cy="150" r="60" fill="white" opacity="0.2"/>
+  <text x="540" y="160" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">Logo</text>
+</svg>

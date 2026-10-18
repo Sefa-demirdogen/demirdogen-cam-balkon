@@ -1,0 +1,57 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <!-- Arka plan -->
+  <rect width="1080" height="1920" fill="#25D366"/>
+  
+  <!-- Dekoratif elementler -->
+  <circle cx="900" cy="300" r="200" fill="#128C7E" opacity="0.3"/>
+  <circle cx="200" cy="1600" r="250" fill="#075E54" opacity="0.2"/>
+  
+  <!-- WhatsApp ikonu -->
+  <circle cx="540" cy="400" r="150" fill="white"/>
+  <text x="540" y="480" font-family="Arial, sans-serif" font-size="200" fill="#25D366" text-anchor="middle">💬</text>
+  
+  <!-- Başlık -->
+  <text x="540" y="750" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" text-anchor="middle">
+    WhatsApp'tan
+  </text>
+  <text x="540" y="850" font-family="Arial, sans-serif" font-size="72" fill="white" text-anchor="middle">
+    Bilgi Alın
+  </text>
+  
+  <!-- Numara -->
+  <text x="540" y="1050" font-family="Arial, sans-serif" font-size="60" fill="white" text-anchor="middle">
+    0543 526 47 92
+  </text>
+  
+  <!-- Mesaj -->
+  <g transform="translate(100, 1150)">
+    <rect x="0" y="0" width="880" height="200" rx="20" fill="white" opacity="0.15"/>
+    <text x="440" y="80" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">
+      Hemen mesaj atın
+    </text>
+    <text x="440" y="140" font-family="Arial, sans-serif" font-size="32" fill="#d1fae5" text-anchor="middle">
+      Fiyat teklifi alın
+    </text>
+  </g>
+  
+  <!-- Hizmetler -->
+  <text x="540" y="1450" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">
+    Cam Balkon • PVC • Sineklik
+  </text>
+  <text x="540" y="1520" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">
+    Duşakabin • Alüminyum Korkuluk
+  </text>
+  
+  <!-- Konum -->
+  <text x="540" y="1700" font-family="Arial, sans-serif" font-size="36" fill="#d1fae5" text-anchor="middle">
+    📍 Kahramanmaraş
+  </text>
+  <text x="540" y="1760" font-family="Arial, sans-serif" font-size="32" fill="#d1fae5" text-anchor="middle">
+    Onikişubat & Dulkadiroğlu
+  </text>
+  
+  <!-- Çağrı -->
+  <text x="540" y="1850" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">
+    👆 Link bio'da
+  </text>
+</svg>
