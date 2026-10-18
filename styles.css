@@ -296,6 +296,63 @@ section {
   text-decoration: underline;
 }
 
+/* Galeri / İşlerimiz */
+.gallery {
+  background-color: var(--bg-light);
+  padding: 80px 0;
+}
+
+.gallery-category {
+  margin-bottom: 48px;
+}
+
+.gallery-category:last-child {
+  margin-bottom: 0;
+}
+
+.gallery-category-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: var(--text-dark);
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.gallery-item {
+  background-color: var(--bg-white);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+
+.gallery-item:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-item figcaption {
+  padding: 16px;
+  text-align: center;
+  font-weight: 600;
+  color: var(--text-dark);
+  background-color: var(--bg-white);
+}
+
 /* Neden Bizi Tercih Etmelisiniz */
 .why-us {
   background-color: var(--bg-white);
@@ -666,6 +723,14 @@ section {
 
   .contact-actions {
     margin-top: 24px;
+  }
+
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-item img {
+    height: 200px;
   }
 
   .footer-content {
