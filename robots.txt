@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
 Sitemap: https://demirdogen-cam-balkon.netlify.app/sitemap.xml
