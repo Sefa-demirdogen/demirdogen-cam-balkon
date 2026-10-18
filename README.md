@@ -2,7 +2,7 @@
 
 Kahramanmaraş'ta cam balkon, PVC pencere-kapı, sineklik, duşakabin montajı ve tamirat hizmetleri için basit, hızlı ve mobil uyumlu web sitesi.
 
-**Site yayında: https://demirdogen-cam-balkon.pages.dev**
+**Site yayında: https://demirdogencambalkon.netlify.app**
 
 ## 📋 Özellikler
 
